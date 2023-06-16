@@ -238,7 +238,7 @@ De vereniging wordt in en buiten rechte vertegenwoordigd door:
 
 ## Artikel 13
 
-Jaarlijks wordt door de algemene vergadering uit de leden een kascommissie benoemd,
+Jaarlijks wordt door de algemene vergadering of de partijraad uit de leden van de partij een kascommissie benoemd,
 welke bestaat uit ten minste twee personen, die geen deel mogen uitmaken van het bestuur.
 De kascommissie onderzoekt de rekening en verantwoording van het bestuur
 en brengt aan de algemene vergadering verslag uit.
