@@ -189,9 +189,6 @@ De vereniging wordt in en buiten rechte vertegenwoordigd door:
     indien de meerderheid van de in functie zijnde bestuursleden
     ter vergadering aanwezig of vertegenwoordigd is.
     Ieder bestuurslid heeft het recht tot het uitbrengen van één stem.
-    Voor zover deze statuten geen grotere meerderheid voorschrijven
-    worden alle bestuursbesluiten genomen met
-    volstrekte meerderheid van de geldig uitgebrachte stemmen.
     Bij schriftelijke rondvraag moet meer dan de helft van de
     ter vergadering aanwezige bestuursleden deelnemen aan de besluitvorming.
 1.  Blanco stemmen worden geacht niet te zijn uitgebracht.
@@ -319,16 +316,6 @@ en brengt aan de algemene vergadering verslag uit.
     indien de oorspronkelijke stemming niet hoofdelijk of schriftelijk geschiedde,
     een stemgerechtigde aanwezige dit verlangt.
     Door deze nieuwe stemming vervallen de rechtsgevolgen van de oorspronkelijke stemming.
-1.  Voorzover de statuten of de wet niet anders bepalen,
-    worden alle besluiten van de algemene vergadering genomen
-    met volstrekte meerderheid van de uitgebrachte stemmen.
-1.  Blanco stemmen en ongeldig uitgebrachte stemmen worden beschouwd
-    als te zijn van onwaarde en worden bij het bepalen van een meerderheid niet meegeteld.
-1.  Indien bij een verkiezing van personen niemand de volstrekte meerderheid heeft verkregen,
-    vindt een herstemming plaats tussen de twee personen,
-    die de meeste stemmen op zich hebben verenigd,
-    Ingeval twee of meer personen bij een stemming eenzelfde
-    aantal stemmen hebben verkregen beslist het lot.
 1.  Bij staking van stemmen over andere zaken dan bedoeld in lid 5 is het voorstel verworpen.
 1.  Alle stemmingen geschieden mondeling,
     tenzij de voorzitter een schriftelijke stemming gewenst acht
@@ -471,5 +458,9 @@ worden door het bestuur bij afzonderlijk reglement geregeld.
 
 ## Artikel 23
 
-In deze statuten wordt met schriftelijk bedoeld elk door gebruikmaking van reguliere post
-en/of langs veilige elektronische weg toegezonden leesbaar en reproduceerbaar bericht.
+1.  Voorzover de wet, de statuten of een ander reglement niet anders bepalen,
+    worden alle besluiten genomen met een gewone meerderheid van stemmen.
+
+1.
+    In deze statuten wordt met schriftelijk bedoeld elk door gebruikmaking van reguliere post
+    en/of langs veilige elektronische weg toegezonden leesbaar en reproduceerbaar bericht.
