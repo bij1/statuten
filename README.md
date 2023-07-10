@@ -458,11 +458,8 @@ worden door het bestuur bij afzonderlijk reglement geregeld.
 
 ## Artikel 23
 
-1.  Voorzover de statuten of de wet niet anders bepalen,
-    worden alle besluiten genomen met de voorgestelde stem methode,
-    of, indien een stemgerechtigde uit het vergaderende orgaan hier bezwaar op aangeeft,
-    met gewone meerderheid van de uitgebrachte stemmen wanneer dit de voorkeur heeft,
-    te bepalen via een gewone meerderheid.
+1.  Voorzover de wet, de statuten of een ander reglement niet anders bepalen,
+    worden alle besluiten genomen met een gewone meerderheid van stemmen.
 
 1.
     In deze statuten wordt met schriftelijk bedoeld elk door gebruikmaking van reguliere post
